@@ -1,8 +1,13 @@
 Gold Market Risk Analysis in R
+
 Returns, Tail Risk, Simulation, and GARCH Volatility
+
 Author: Zakariya Boutayeb
+
 Instrument: COMEX gold futures (GC=F)
+
 Analysis period: December 2006 through December 2023
+
 
 Summary:
 This report evaluates gold-market risk using daily Yahoo Finance closing prices. It combines return construction, distribution diagnostics, parametric and empirical tail estimation, multi-day simulation, autocorrelation analysis, and a GARCH(1,1) model with Student-t innovations.
